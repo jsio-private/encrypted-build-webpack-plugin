@@ -1,0 +1,13 @@
+{
+  "name": "encrypted-build-webpack-plugin",
+  "main": "src/EncryptedBuildPlugin",
+  "version": "0.0.0",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "crypto-js": "^3.1.8",
+    "debug": "^2.2.0",
+    "lodash": "^4.16.6",
+    "webpack": "^1.13.3",
+    "webpack-core": "^0.6.8"
+  }
+}
